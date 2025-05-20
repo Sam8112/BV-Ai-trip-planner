@@ -38,7 +38,7 @@ To run the Travel Planner AI, follow these steps:
 5. Open your browser and visit [﻿http://localhost:3000](http://localhost:3000/)  to see the app in action.
 ## Technologies Used
 - Travel Planner AI is built using cutting-edge technologies to ensure a seamless user experience.
-- **Next.js 14:** Leveraging the latest advancements in Next.js for efficient web application development.
+- **React.js:** Leveraging the latest advancements in React.js for efficient web application development.
 - **Tailwind CSS with Shadcn-UI:** Utilizing Tailwind CSS with Shadcn-UI for responsive and visually stunning user interfaces.
 - **Convex Backend Platform:** Powering our backend infrastructure for robust performance and scalability.
 - **OpenAI APIs:** Harnessing the power of OpenAI's APIs for intelligent content generation and natural language processing.
